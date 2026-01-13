@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='coers_library',
-    version='1.0.2',
+    version='0.0.4',
     packages=find_packages("."),
     scripts=["bin/coers_library_add.py"],
     url='https://github.com/Marina-Alp/coers_library_py',
