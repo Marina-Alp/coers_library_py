@@ -1,6 +1,6 @@
-from book import Book
-from library import Library
-from user import User
+from coers_library.book import Book
+from coers_library.library import Library
+from coers_library.user import User
 
 if __name__ == '__main__':
     kak = Book('Алые паруса', 'Александр Грин', 1923)
