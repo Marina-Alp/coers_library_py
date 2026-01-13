@@ -67,9 +67,8 @@ if __name__ == '__main__':
     print(user1)
     print(lib1)
     user1.app_reading_book(lib1, kak)
-
-    user1.return_book(lib1, eto)
+    user1.app_reading_book(lib1, eto)
     print(user1)
-    print(lib1)
+    print(user1)
 
 
